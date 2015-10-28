@@ -1,0 +1,1 @@
+A simulator of differente memory management policies.
